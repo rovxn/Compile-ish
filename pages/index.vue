@@ -70,7 +70,7 @@ export default {
     return {
       code: "",
       lineNumbers: "1",
-      output: "Nokki Erunno, Ippo Kittum!!",
+      output: "",
       mockingMessages: [
         "Did you really think that would work?",
         "Nice try, but no.",
